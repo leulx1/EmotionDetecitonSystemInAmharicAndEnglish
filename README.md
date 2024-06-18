@@ -8,11 +8,11 @@ Ensure you have the following Python libraries installed. You can install them u
 
 pip:
 
-pip install opencv-python-headless
-pip install numpy
-pip install pillow
-pip install tensorflow
-pip install keras
+- pip install opencv-python-headless
+- pip install numpy
+- pip install pillow
+- pip install tensorflow
+- pip install keras
 
 # 2. File Requirements
 
